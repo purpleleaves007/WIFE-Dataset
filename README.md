@@ -1,7 +1,7 @@
 # WIFE-Dataset
 ## WiFE: WiFi and Vision based Intelligent Facial-Gesture Emotion Recognition
 
-This is the description project of the WIFE dataset proposed in Paper “WiFE: WiFi and Vision based Intelligent Facial-Gesture Emotion Recognition". If you want to obtain the dataset, please visit link:https://cougarmailcollin-my.sharepoint.com/:f:/g/personal/mmarlen1_cougarmail_collin_edu/Ej6wbgvaAHdOl8inP5x8D-cBfbtHFdDBVni6tX9vXMoqFA?e=VHr3yU.
+This is the description project of the WIFE dataset proposed in Paper “WiFE: WiFi and Vision based Intelligent Facial-Gesture Emotion Recognition". If you want to obtain the dataset, please visit link:https://cougarmailcollin-my.sharepoint.com/:f:/g/personal/mmarlen1_cougarmail_collin_edu/Ej6wbgvaAHdOl8inP5x8D-cBfbtHFdDBVni6tX9vXMoqFA?e=VHr3yU, or https://pan.baidu.com/s/1BJ7LglQ0qUZheD9VF5_JDA(extract code:h0vu ).
 
 This paper is the first one to leverage WiFi and vision for the facial expression and body gesture bi-modal emotion recognition. Also, we build the first bi-modal WiFi-Vision Emotion data set, and we provide this dataset for free for researchers for research purposes. This dataset can only be used for academic purposes. If you have any questions, please contact us:zhangxiang@mail.hfut.edu.cn
 
